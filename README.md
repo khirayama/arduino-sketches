@@ -15,4 +15,11 @@ $ sudo chmod a+rw /dev/ttyACM0
 
 $ arduino-cli compile --fqbn arduino:avr:uno LEDBlinker
 $ arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno LEDBlinker
+
+$ screen /dev/ttyACM0 9600 # ctrl+a > k
 ```
+
+## References
+
+- [Arduino CLI](https://arduino.github.io/arduino-cli/0.19/)
+- [C++ / Arduino CLI / NeoVim でArduinoで遊ぶ環境を整える | DevelopersIO](https://dev.classmethod.jp/articles/cpp-arduino-cli-neovim-play/)
