@@ -1,0 +1,2 @@
+- [超音波距離センサモジュール HC-SR04 - SWITCH-SCIENCE](https://www.switch-science.com/catalog/1606/)
+- [Arduinoでパーツやセンサを使ってみよう～超音波モジュール編 | Device Plus - デバプラ](https://deviceplus.jp/hobby/entry016/)
